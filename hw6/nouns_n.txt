@@ -1,0 +1,1 @@
+﻿Buch,Kind,Radio,Brot,Auto,Bein,Fahrrad
