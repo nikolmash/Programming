@@ -8,7 +8,8 @@ def get_text(filename):
 def substitution(text):
     result = re.sub(r'Финл[яя́]нди(?=[яиею]й?)', 'Малайзи', text)
     return result
-        
+
+    
 filename = input('Введите название файла: ')
 if filename != '':
     text = get_text(filename)
